@@ -1,6 +1,6 @@
 # SafeCircle — Privacy Policy
 
-**Last updated:** [DATE]
+**Last updated:** 11 June 2026
 
 This privacy policy explains what personal data SafeCircle collects when you use the SafeCircle mobile app, why we collect it, how long we keep it, and the rights you have under the EU General Data Protection Regulation (GDPR).
 
@@ -12,9 +12,9 @@ We've tried to keep this short and plain-language. If anything is unclear, conta
 
 SafeCircle is operated by:
 
-**[FULL LEGAL NAME — e.g. "Aditya Sisai" if sole trader, or company name if registered]**
-[STREET AND HOUSE NUMBER]
-[POSTAL CODE] [CITY]
+**David Smilowski**
+Orionstraße 8
+16321 Bernau bei Berlin
 Germany
 
 Contact: **privacy@safecircle.app**
@@ -35,8 +35,8 @@ We only collect data we actually need to run the service. Specifically:
 - **Helper organisation membership** — the organisation that approved you as a helper. Shown to members during identity verification. *Legal basis: Art. 6(1)(b).*
 
 ### Help-request data
-- **Help-request records** — the category (e.g. "I'm lost"), optional free text you write, your approximate location, the assigned helper, and timestamps for each stage of the walk. Used to coordinate the help request and as a record in case of a dispute or report. *Legal basis: Art. 6(1)(b).*
-- **Ratings and comments** — optionally submitted by a member after a completed walk. Used to monitor helper quality. *Legal basis: Art. 6(1)(b) and Art. 6(1)(f) — our legitimate interest in service quality.*
+- **Help-request records** — the category (e.g. "I'm lost"), optional free text you write, your approximate location, the assigned helper, and timestamps for each stage of the walk. *Legal basis: Art. 6(1)(b).*
+- **Ratings and comments** — optionally submitted by a member after a completed walk. *Legal basis: Art. 6(1)(b) and Art. 6(1)(f) — our legitimate interest in service quality.*
 - **Reports** — submitted by members to flag misconduct. Sent to the helper's organisation for review. *Legal basis: Art. 6(1)(f).*
 
 ### Location data
@@ -81,7 +81,7 @@ Your data is shared with:
 
 We use the following processors, all bound by Data Processing Agreements (Auftragsverarbeitungsverträge):
 
-- **Supabase Inc.** — database, authentication, file storage. Your data is stored on Supabase infrastructure in the EU ([REGION — e.g. Frankfurt, Germany]).
+- **Supabase Inc.** — database, authentication, file storage. Your data is stored on Supabase infrastructure in the EU (Frankfurt, Germany).
 - **Google LLC (Firebase Cloud Messaging)** — delivery of push notifications. Google receives only the push token and the notification payload, not the underlying help-request data.
 - **Google LLC (Maps SDK for Android)** — renders the map you see during an active request. Map tile requests reveal your approximate location to Google.
 - **Expo / EAS** — mobile-app build infrastructure. Does not receive end-user runtime data.
@@ -90,7 +90,7 @@ We use the following processors, all bound by Data Processing Agreements (Auftra
 
 ## 5. International data transfers
 
-Your account data is stored on Supabase infrastructure within the European Union and is not routinely transferred to third countries.
+Your account data is stored on Supabase infrastructure within the European Union (Frankfurt, Germany) and is not routinely transferred to third countries.
 
 Some processors (Google for FCM and Maps SDK) operate globally. Where data leaves the EU, the transfer is covered by the EU-US Data Privacy Framework, Standard Contractual Clauses (Art. 46 GDPR), or another approved transfer mechanism. You can request the specific safeguards in writing.
 
@@ -118,15 +118,16 @@ You have the right to:
 - **Restrict** processing (Art. 18)
 - **Receive** your data in a portable machine-readable format (Art. 20)
 - **Object** to processing based on legitimate interest (Art. 21)
-- **Withdraw** your consent at any time (Art. 7(3)) — for example by revoking location or notification permission in your phone settings
+- **Withdraw** your consent at any time (Art. 7(3))
 - **Lodge a complaint** with a supervisory authority (Art. 77)
 
 To exercise these rights, email **privacy@safecircle.app**. We respond within one month of the request (Art. 12(3) GDPR).
 
-The competent supervisory authority for SafeCircle in Germany is:
+The competent supervisory authority for SafeCircle is:
 
-**[NAME of state DPA — for Berlin: Berliner Beauftragte für Datenschutz und Informationsfreiheit; for federal matters: Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI)]**
-https://www.bfdi.bund.de/
+**Die Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg (LDA Brandenburg)**
+Stahnsdorfer Damm 77, 14532 Kleinmachnow
+https://www.lda.brandenburg.de/
 
 ---
 
@@ -169,7 +170,7 @@ We will notify users of material changes via an in-app notice and (where we have
 For all privacy-related questions, requests, or complaints:
 
 - **Email:** privacy@safecircle.app
-- **Postal:** [FULL LEGAL NAME], [STREET], [POSTAL CODE] [CITY], Germany
+- **Postal:** David Smilowski, Orionstraße 8, 16321 Bernau bei Berlin, Germany
 
 We are a small team and aim to respond within a few business days.
 

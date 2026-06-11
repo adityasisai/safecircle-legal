@@ -1,6 +1,6 @@
 # SafeCircle — Datenschutzerklärung
 
-**Letzte Aktualisierung:** [DATUM]
+**Letzte Aktualisierung:** 11. Juni 2026
 
 Diese Datenschutzerklärung erläutert, welche personenbezogenen Daten SafeCircle bei der Nutzung der mobilen App erhebt, warum wir diese Daten erheben, wie lange wir sie speichern und welche Rechte Sie nach der EU-Datenschutz-Grundverordnung (DSGVO) haben.
 
@@ -12,9 +12,9 @@ Wir haben uns bemüht, diese Erklärung kurz und in einfacher Sprache zu halten.
 
 Verantwortlicher im Sinne von Art. 4 Nr. 7 DSGVO für alle im Zusammenhang mit der SafeCircle-App verarbeiteten personenbezogenen Daten ist:
 
-**[VOLLSTÄNDIGER RECHTLICHER NAME — z. B. „Aditya Sisai" bei Einzelunternehmen oder Firmenname bei eingetragener Gesellschaft]**
-[STRASSE UND HAUSNUMMER]
-[PLZ] [ORT]
+**David Smilowski**
+Orionstraße 8
+16321 Bernau bei Berlin
 Deutschland
 
 Kontakt: **privacy@safecircle.app**
@@ -33,8 +33,8 @@ Wir erheben nur Daten, die wir tatsächlich für den Betrieb des Dienstes benöt
 - **Organisationszugehörigkeit von Helfer:innen** — die Organisation, die Sie als Helfer:in zugelassen hat. Wird Nutzer:innen bei der Identitätsprüfung angezeigt. *Rechtsgrundlage: Art. 6 Abs. 1 lit. b.*
 
 ### Daten zu Hilfeanfragen
-- **Hilfeanfragen** — die Kategorie (z. B. „Ich habe mich verlaufen"), ein optionaler Freitext, Ihr ungefährer Standort, die zugewiesene Helfer:in und Zeitstempel für jede Phase der Begleitung. Dient der Koordination der Anfrage und als Nachweis im Streit- oder Meldefall. *Rechtsgrundlage: Art. 6 Abs. 1 lit. b.*
-- **Bewertungen und Kommentare** — optional von Nutzer:innen nach einer abgeschlossenen Begleitung abgegeben. Dient der Qualitätssicherung. *Rechtsgrundlage: Art. 6 Abs. 1 lit. b und Art. 6 Abs. 1 lit. f — unser berechtigtes Interesse an der Dienstqualität.*
+- **Hilfeanfragen** — die Kategorie (z. B. „Ich habe mich verlaufen"), ein optionaler Freitext, Ihr ungefährer Standort, die zugewiesene Helfer:in und Zeitstempel für jede Phase der Begleitung. *Rechtsgrundlage: Art. 6 Abs. 1 lit. b.*
+- **Bewertungen und Kommentare** — optional von Nutzer:innen nach einer abgeschlossenen Begleitung abgegeben. *Rechtsgrundlage: Art. 6 Abs. 1 lit. b und Art. 6 Abs. 1 lit. f — unser berechtigtes Interesse an der Dienstqualität.*
 - **Meldungen** — von Nutzer:innen eingereicht, um Fehlverhalten zu melden. Werden an die Organisation der gemeldeten Helfer:in zur Prüfung weitergeleitet. *Rechtsgrundlage: Art. 6 Abs. 1 lit. f.*
 
 ### Standortdaten
@@ -79,7 +79,7 @@ Ihre Daten werden geteilt mit:
 
 Wir setzen folgende Auftragsverarbeiter ein, alle gebunden durch Auftragsverarbeitungsverträge:
 
-- **Supabase Inc.** — Datenbank, Authentifizierung, Datei-Speicher. Ihre Daten werden auf Supabase-Infrastruktur in der EU gespeichert ([REGION — z. B. Frankfurt, Deutschland]).
+- **Supabase Inc.** — Datenbank, Authentifizierung, Datei-Speicher. Ihre Daten werden auf Supabase-Infrastruktur in der EU gespeichert (Frankfurt, Deutschland).
 - **Google LLC (Firebase Cloud Messaging)** — Zustellung von Push-Benachrichtigungen. Google erhält nur das Push-Token und den Benachrichtigungsinhalt, nicht die zugrundeliegenden Hilfeanfrage-Daten.
 - **Google LLC (Maps SDK für Android)** — stellt die Karte dar, die Sie während einer aktiven Anfrage sehen. Karten-Anfragen offenbaren Google Ihren ungefähren Standort.
 - **Expo / EAS** — Build-Infrastruktur für die mobile App. Erhält keine Laufzeitdaten von Endnutzer:innen.
@@ -88,7 +88,7 @@ Wir setzen folgende Auftragsverarbeiter ein, alle gebunden durch Auftragsverarbe
 
 ## 5. Internationale Datenübermittlungen
 
-Ihre Kontodaten werden auf Supabase-Infrastruktur innerhalb der Europäischen Union gespeichert und nicht routinemäßig an Drittländer übermittelt.
+Ihre Kontodaten werden auf Supabase-Infrastruktur innerhalb der Europäischen Union (Frankfurt, Deutschland) gespeichert und nicht routinemäßig an Drittländer übermittelt.
 
 Einige Verarbeiter (Google für FCM und Maps SDK) sind global tätig. Soweit Daten die EU verlassen, ist die Übermittlung durch das EU-US Data Privacy Framework, Standardvertragsklauseln (Art. 46 DSGVO) oder einen anderen anerkannten Übermittlungsmechanismus abgesichert. Sie können die konkreten Garantien schriftlich anfordern.
 
@@ -116,15 +116,16 @@ Sie haben das Recht auf:
 - **Einschränkung** der Verarbeitung (Art. 18)
 - **Datenübertragbarkeit** in einem maschinenlesbaren Format (Art. 20)
 - **Widerspruch** gegen Verarbeitungen auf Grundlage berechtigter Interessen (Art. 21)
-- **Widerruf** Ihrer Einwilligung jederzeit (Art. 7 Abs. 3) — etwa durch Entzug der Standort- oder Benachrichtigungsberechtigung in Ihren Geräteeinstellungen
+- **Widerruf** Ihrer Einwilligung jederzeit (Art. 7 Abs. 3)
 - **Beschwerde** bei einer Aufsichtsbehörde (Art. 77)
 
 Zur Ausübung dieser Rechte senden Sie eine E-Mail an **privacy@safecircle.app**. Wir antworten innerhalb eines Monats (Art. 12 Abs. 3 DSGVO).
 
-Die für SafeCircle in Deutschland zuständige Aufsichtsbehörde ist:
+Die für SafeCircle zuständige Aufsichtsbehörde ist:
 
-**[NAME der Landesdatenschutzbehörde — für Berlin: Berliner Beauftragte für Datenschutz und Informationsfreiheit; für Bundesangelegenheiten: Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI)]**
-https://www.bfdi.bund.de/
+**Die Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg (LDA Brandenburg)**
+Stahnsdorfer Damm 77, 14532 Kleinmachnow
+https://www.lda.brandenburg.de/
 
 ---
 
@@ -167,7 +168,7 @@ Wir werden Nutzer:innen über wesentliche Änderungen mittels eines Hinweises in
 Bei allen datenschutzbezogenen Fragen, Anfragen oder Beschwerden:
 
 - **E-Mail:** privacy@safecircle.app
-- **Postanschrift:** [VOLLSTÄNDIGER RECHTLICHER NAME], [STRASSE], [PLZ] [ORT], Deutschland
+- **Postanschrift:** David Smilowski, Orionstraße 8, 16321 Bernau bei Berlin, Deutschland
 
 Wir sind ein kleines Team und antworten in der Regel innerhalb weniger Werktage.
 

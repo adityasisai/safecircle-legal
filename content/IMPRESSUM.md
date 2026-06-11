@@ -1,28 +1,39 @@
-IMPRESSUM (Legal Notice — Required for any German-facing service)
+# Impressum
 
-Required by German law (§5 TMG, §55 MStV). Must be reachable from every page within two clicks. Make it accessible from the app's "About" / "Settings" screen and from the footer of every web page.
+Angaben gemäß § 5 TMG / § 18 Abs. 2 MStV
 
-SafeCircle
-Provider (Anbieter):
-[FULL LEGAL NAME, e.g. "Aditya Sisai" if sole trader, or company name if registered]
-[STREET AND HOUSE NUMBER]
-[POSTAL CODE] [CITY]
-Germany
-Contact:
-Email: contact@safecircle.app
-[Optional: Phone number — German law requires "rapid electronic contact" but does not strictly require a phone number; an email plus a contact form is generally accepted.]
-Authorized Representatives (Vertretungsberechtigte):
-[FULL NAMES of founders / managing directors]
-[If registered as a company — UG, GmbH, etc., include:]
-Commercial Register: [Amtsgericht NAME], HRB [NUMBER]
-VAT ID per §27a UStG: [DE...] [only if you have one — most early-stage projects don't]
-Person responsible for content per §18 Abs. 2 MStV:
-[NAME]
-[ADDRESS — same as above unless different]
-Online Dispute Resolution:
-The European Commission provides a platform for online dispute resolution (OS) at https://ec.europa.eu/consumers/odr/. Our email address can be found above.
-We are not obliged or willing to participate in dispute resolution proceedings before a consumer arbitration board.
-Liability for content:
-As service providers, we are responsible for our own content on these pages in accordance with general laws (§7 para. 1 TMG). According to §§8–10 TMG, however, we are not obligated to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity. Obligations to remove or block the use of information under general laws remain unaffected.
-Liability for links:
-Our offer contains links to external third-party websites over whose content we have no influence. We cannot accept any liability for this external content. The respective provider or operator of the linked pages is always responsible for the content. Linked pages were checked for possible legal violations at the time of linking. Illegal content was not recognizable at the time of linking. Permanent monitoring of the content of linked pages is not reasonable without concrete evidence of a legal violation. If we become aware of legal violations, we will remove such links immediately.
+## Anbieter
+
+**David Smilowski**
+Orionstraße 8
+16321 Bernau bei Berlin
+Deutschland
+
+## Kontakt
+
+E-Mail: contact@safecircle.app
+
+## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
+
+David Smilowski
+Orionstraße 8
+16321 Bernau bei Berlin
+Deutschland
+
+## Online-Streitbeilegung
+
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/. Unsere E-Mail-Adresse finden Sie oben.
+
+Wir sind weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+## Haftung für Inhalte
+
+Als Diensteanbieter sind wir gemäß § 7 Abs. 1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.
+
+## Haftung für Links
+
+Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+
+## Urheberrecht
+
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
