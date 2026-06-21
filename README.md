@@ -1,6 +1,6 @@
-# SafeCircle — Legal
+# AllyWalk — Legal
 
-A tiny [Next.js](https://nextjs.org) site that publishes SafeCircle's legal documents (Privacy Policy in English + German, Impressum) as styled web pages. Hosted on [Vercel](https://vercel.com).
+A tiny [Next.js](https://nextjs.org) site that publishes AllyWalk's legal documents (Privacy Policy in English + German, Impressum) as styled web pages. Hosted on [Vercel](https://vercel.com).
 
 
 

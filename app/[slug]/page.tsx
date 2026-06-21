@@ -5,9 +5,9 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
 const SLUGS: Record<string, { file: string; title: string }> = {
-  'privacy-en': { file: 'PRIVACY_POLICY_EN.md', title: 'Privacy Policy — SafeCircle' },
-  'privacy-de': { file: 'PRIVACY_POLICY_DE.md', title: 'Datenschutzerklärung — SafeCircle' },
-  'impressum':  { file: 'IMPRESSUM.md',         title: 'Impressum — SafeCircle' },
+  'privacy-en': { file: 'PRIVACY_POLICY_EN.md', title: 'Privacy Policy — AllyWalk' },
+  'privacy-de': { file: 'PRIVACY_POLICY_DE.md', title: 'Datenschutzerklärung — AllyWalk' },
+  'impressum':  { file: 'IMPRESSUM.md',         title: 'Impressum — AllyWalk' },
 };
 
 export function generateStaticParams() {
@@ -16,7 +16,7 @@ export function generateStaticParams() {
 
 export function generateMetadata({ params }: { params: { slug: string } }) {
   const entry = SLUGS[params.slug];
-  return { title: entry?.title ?? 'SafeCircle' };
+  return { title: entry?.title ?? 'AllyWalk' };
 }
 
 export default function DocPage({ params }: { params: { slug: string } }) {

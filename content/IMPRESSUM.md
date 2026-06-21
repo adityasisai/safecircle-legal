@@ -11,7 +11,7 @@ Deutschland
 
 ## Kontakt
 
-E-Mail: contact@safecircle.app
+E-Mail: contact@allywalk.app
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 

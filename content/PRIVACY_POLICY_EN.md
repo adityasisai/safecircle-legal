@@ -1,8 +1,8 @@
-# SafeCircle — Privacy Policy
+# AllyWalk — Privacy Policy
 
 **Last updated:** 11 June 2026
 
-This privacy policy explains what personal data SafeCircle collects when you use the SafeCircle mobile app, why we collect it, how long we keep it, and the rights you have under the EU General Data Protection Regulation (GDPR).
+This privacy policy explains what personal data AllyWalk collects when you use the AllyWalk mobile app, why we collect it, how long we keep it, and the rights you have under the EU General Data Protection Regulation (GDPR).
 
 We've tried to keep this short and plain-language. If anything is unclear, contact us at the address in section 12.
 
@@ -10,16 +10,16 @@ We've tried to keep this short and plain-language. If anything is unclear, conta
 
 ## 1. Who we are
 
-SafeCircle is operated by:
+AllyWalk is operated by:
 
 **David Smilowski**
 Orionstraße 8
 16321 Bernau bei Berlin
 Germany
 
-Contact: **privacy@safecircle.app**
+Contact: **privacy@allywalk.app**
 
-We are the data controller within the meaning of Art. 4(7) GDPR for all personal data processed in connection with the SafeCircle app.
+We are the data controller within the meaning of Art. 4(7) GDPR for all personal data processed in connection with the AllyWalk app.
 
 ---
 
@@ -42,7 +42,7 @@ We only collect data we actually need to run the service. Specifically:
 ### Location data
 - **While not in an active request:** we briefly check your location when you open the "Find Helpers" screen so we can match you to a nearby event geofence. The location is not stored.
 - **During an active request:** your approximate location is continuously updated and shared with the other party (helper or member you are walking with), so you can see each other on the map.
-- **Background tracking:** on Android, once you accept "Allow all the time" location permission, your location continues updating to the other party even when the SafeCircle app is in the background or the screen is locked. While this is happening, Android shows a persistent notification reminding you that SafeCircle is sharing your location.
+- **Background tracking:** on Android, once you accept "Allow all the time" location permission, your location continues updating to the other party even when the AllyWalk app is in the background or the screen is locked. While this is happening, Android shows a persistent notification reminding you that AllyWalk is sharing your location.
 - The background tracking **stops automatically** the moment the help request ends (arrived safely, cancelled, or completed by either party).
 - *Legal basis: Art. 6(1)(b) and Art. 6(1)(a) — your explicit consent via the OS permission prompt, withdrawable at any time in your phone settings.*
 
@@ -77,7 +77,7 @@ Your data is shared with:
 
 - **The other party in an active help request** — during an active walk, the helper sees the member's first name and live location; the member sees the helper's first name + last initial, photo, organisation, and live location.
 - **Helper organisations** — admins of the organisation a helper belongs to can see that helper's profile, on-duty status, and any reports filed against that helper. Admins cannot see member data.
-- **SafeCircle operational staff** — we may access your data when strictly necessary for support, fraud investigation, or safety incidents.
+- **AllyWalk operational staff** — we may access your data when strictly necessary for support, fraud investigation, or safety incidents.
 
 We use the following processors, all bound by Data Processing Agreements (Auftragsverarbeitungsverträge):
 
@@ -121,9 +121,9 @@ You have the right to:
 - **Withdraw** your consent at any time (Art. 7(3))
 - **Lodge a complaint** with a supervisory authority (Art. 77)
 
-To exercise these rights, email **privacy@safecircle.app**. We respond within one month of the request (Art. 12(3) GDPR).
+To exercise these rights, email **privacy@allywalk.app**. We respond within one month of the request (Art. 12(3) GDPR).
 
-The competent supervisory authority for SafeCircle is:
+The competent supervisory authority for AllyWalk is:
 
 **Die Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg (LDA Brandenburg)**
 Stahnsdorfer Damm 77, 14532 Kleinmachnow
@@ -133,7 +133,7 @@ https://www.lda.brandenburg.de/
 
 ## 8. Push notifications and your phone settings
 
-You can turn off notifications at any time in your phone's Settings → Apps → SafeCircle → Notifications. Doing so will mean you (as a helper) no longer receive new help-request alerts, but the rest of the app continues to work.
+You can turn off notifications at any time in your phone's Settings → Apps → AllyWalk → Notifications. Doing so will mean you (as a helper) no longer receive new help-request alerts, but the rest of the app continues to work.
 
 You can similarly turn off location access at any time. Doing so will prevent the helper-finding and active-walk features from working but will not affect your account.
 
@@ -141,7 +141,7 @@ You can similarly turn off location access at any time. Doing so will prevent th
 
 ## 9. Children
 
-SafeCircle is not directed at users under 16 years of age. We require age confirmation at sign-up and do not knowingly collect data from users under 16. If you believe a minor has created an account, please email **privacy@safecircle.app** and we will delete the account.
+AllyWalk is not directed at users under 16 years of age. We require age confirmation at sign-up and do not knowingly collect data from users under 16. If you believe a minor has created an account, please email **privacy@allywalk.app** and we will delete the account.
 
 ---
 
@@ -169,7 +169,7 @@ We will notify users of material changes via an in-app notice and (where we have
 
 For all privacy-related questions, requests, or complaints:
 
-- **Email:** privacy@safecircle.app
+- **Email:** privacy@allywalk.app
 - **Postal:** David Smilowski, Orionstraße 8, 16321 Bernau bei Berlin, Germany
 
 We are a small team and aim to respond within a few business days.

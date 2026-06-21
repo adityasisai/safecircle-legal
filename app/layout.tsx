@@ -1,8 +1,8 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'SafeCircle — Legal',
-  description: 'Privacy Policy and Impressum for the SafeCircle mobile app.',
+  title: 'AllyWalk — Legal',
+  description: 'Privacy Policy and Impressum for the AllyWalk mobile app.',
 };
 
 const styles = `
@@ -61,7 +61,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body>
         <div className="container">{children}</div>
-        <footer>SafeCircle · contact@safecircle.app</footer>
+        <footer>AllyWalk · contact@allywalk.app</footer>
       </body>
     </html>
   );

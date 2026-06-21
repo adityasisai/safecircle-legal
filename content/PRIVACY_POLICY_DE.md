@@ -1,8 +1,8 @@
-# SafeCircle — Datenschutzerklärung
+# AllyWalk — Datenschutzerklärung
 
 **Letzte Aktualisierung:** 11. Juni 2026
 
-Diese Datenschutzerklärung erläutert, welche personenbezogenen Daten SafeCircle bei der Nutzung der mobilen App erhebt, warum wir diese Daten erheben, wie lange wir sie speichern und welche Rechte Sie nach der EU-Datenschutz-Grundverordnung (DSGVO) haben.
+Diese Datenschutzerklärung erläutert, welche personenbezogenen Daten AllyWalk bei der Nutzung der mobilen App erhebt, warum wir diese Daten erheben, wie lange wir sie speichern und welche Rechte Sie nach der EU-Datenschutz-Grundverordnung (DSGVO) haben.
 
 Wir haben uns bemüht, diese Erklärung kurz und in einfacher Sprache zu halten. Bei Fragen wenden Sie sich bitte an die in Abschnitt 12 angegebene Adresse.
 
@@ -10,14 +10,14 @@ Wir haben uns bemüht, diese Erklärung kurz und in einfacher Sprache zu halten.
 
 ## 1. Wer wir sind
 
-Verantwortlicher im Sinne von Art. 4 Nr. 7 DSGVO für alle im Zusammenhang mit der SafeCircle-App verarbeiteten personenbezogenen Daten ist:
+Verantwortlicher im Sinne von Art. 4 Nr. 7 DSGVO für alle im Zusammenhang mit der AllyWalk-App verarbeiteten personenbezogenen Daten ist:
 
 **David Smilowski**
 Orionstraße 8
 16321 Bernau bei Berlin
 Deutschland
 
-Kontakt: **privacy@safecircle.app**
+Kontakt: **privacy@allywalk.app**
 
 ---
 
@@ -40,7 +40,7 @@ Wir erheben nur Daten, die wir tatsächlich für den Betrieb des Dienstes benöt
 ### Standortdaten
 - **Außerhalb einer aktiven Anfrage:** Beim Öffnen des Bildschirms „Helfer:innen finden" prüfen wir kurz Ihren Standort, um Sie einem aktiven Veranstaltungsbereich zuzuordnen. Der Standort wird nicht gespeichert.
 - **Während einer aktiven Anfrage:** Ihr ungefährer Standort wird laufend aktualisiert und mit der anderen beteiligten Person (Helfer:in oder begleitete Person) geteilt, damit Sie einander auf der Karte sehen können.
-- **Hintergrundverfolgung:** Auf Android wird Ihr Standort, sobald Sie die Berechtigung „Immer zulassen" erteilen, auch dann weiter aktualisiert, wenn die SafeCircle-App im Hintergrund läuft oder der Bildschirm gesperrt ist. Während dieser Zeit zeigt Android eine dauerhafte Benachrichtigung an, die Sie daran erinnert, dass SafeCircle Ihren Standort teilt.
+- **Hintergrundverfolgung:** Auf Android wird Ihr Standort, sobald Sie die Berechtigung „Immer zulassen" erteilen, auch dann weiter aktualisiert, wenn die AllyWalk-App im Hintergrund läuft oder der Bildschirm gesperrt ist. Während dieser Zeit zeigt Android eine dauerhafte Benachrichtigung an, die Sie daran erinnert, dass AllyWalk Ihren Standort teilt.
 - Die Hintergrundverfolgung **endet automatisch**, sobald die Hilfeanfrage beendet ist (sicher angekommen, abgebrochen oder von einer Seite beendet).
 - *Rechtsgrundlage: Art. 6 Abs. 1 lit. b und Art. 6 Abs. 1 lit. a — Ihre ausdrückliche Einwilligung über die Berechtigungsabfrage des Betriebssystems, jederzeit in den Geräteeinstellungen widerrufbar.*
 
@@ -75,7 +75,7 @@ Ihre Daten werden geteilt mit:
 
 - **Der anderen Person in einer aktiven Hilfeanfrage** — während einer aktiven Begleitung sieht die Helfer:in den Vornamen und den Live-Standort der Nutzer:in; die Nutzer:in sieht Vornamen + Anfangsbuchstaben des Nachnamens, Foto, Organisation und Live-Standort der Helfer:in.
 - **Helfer:innen-Organisationen** — Administrator:innen der zugehörigen Organisation können das Profil der Helfer:in, deren Dienststatus und alle gegen sie eingereichten Meldungen einsehen. Sie können keine Nutzer:innen-Daten einsehen.
-- **SafeCircle-Betriebsmitarbeitende** — wir können auf Ihre Daten zugreifen, soweit dies für Support, Betrugsermittlung oder Sicherheitsvorfälle unbedingt erforderlich ist.
+- **AllyWalk-Betriebsmitarbeitende** — wir können auf Ihre Daten zugreifen, soweit dies für Support, Betrugsermittlung oder Sicherheitsvorfälle unbedingt erforderlich ist.
 
 Wir setzen folgende Auftragsverarbeiter ein, alle gebunden durch Auftragsverarbeitungsverträge:
 
@@ -119,9 +119,9 @@ Sie haben das Recht auf:
 - **Widerruf** Ihrer Einwilligung jederzeit (Art. 7 Abs. 3)
 - **Beschwerde** bei einer Aufsichtsbehörde (Art. 77)
 
-Zur Ausübung dieser Rechte senden Sie eine E-Mail an **privacy@safecircle.app**. Wir antworten innerhalb eines Monats (Art. 12 Abs. 3 DSGVO).
+Zur Ausübung dieser Rechte senden Sie eine E-Mail an **privacy@allywalk.app**. Wir antworten innerhalb eines Monats (Art. 12 Abs. 3 DSGVO).
 
-Die für SafeCircle zuständige Aufsichtsbehörde ist:
+Die für AllyWalk zuständige Aufsichtsbehörde ist:
 
 **Die Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg (LDA Brandenburg)**
 Stahnsdorfer Damm 77, 14532 Kleinmachnow
@@ -131,7 +131,7 @@ https://www.lda.brandenburg.de/
 
 ## 8. Push-Benachrichtigungen und Ihre Geräteeinstellungen
 
-Sie können Benachrichtigungen jederzeit in den Einstellungen Ihres Telefons unter Einstellungen → Apps → SafeCircle → Benachrichtigungen deaktivieren. Damit erhalten Sie als Helfer:in keine neuen Hilfeanfragen mehr, der Rest der App funktioniert aber weiter.
+Sie können Benachrichtigungen jederzeit in den Einstellungen Ihres Telefons unter Einstellungen → Apps → AllyWalk → Benachrichtigungen deaktivieren. Damit erhalten Sie als Helfer:in keine neuen Hilfeanfragen mehr, der Rest der App funktioniert aber weiter.
 
 Sie können den Standortzugriff ebenfalls jederzeit deaktivieren. Damit werden die Helfersuche und die Live-Karte während einer aktiven Begleitung nicht mehr funktionieren, Ihr Konto bleibt davon unberührt.
 
@@ -139,7 +139,7 @@ Sie können den Standortzugriff ebenfalls jederzeit deaktivieren. Damit werden d
 
 ## 9. Minderjährige
 
-SafeCircle richtet sich nicht an Personen unter 16 Jahren. Wir verlangen bei der Anmeldung eine Altersbestätigung und erheben wissentlich keine Daten von Personen unter 16. Sollten Sie Grund zu der Annahme haben, dass eine minderjährige Person ein Konto erstellt hat, schreiben Sie bitte an **privacy@safecircle.app**, und wir löschen das Konto.
+AllyWalk richtet sich nicht an Personen unter 16 Jahren. Wir verlangen bei der Anmeldung eine Altersbestätigung und erheben wissentlich keine Daten von Personen unter 16. Sollten Sie Grund zu der Annahme haben, dass eine minderjährige Person ein Konto erstellt hat, schreiben Sie bitte an **privacy@allywalk.app**, und wir löschen das Konto.
 
 ---
 
@@ -167,7 +167,7 @@ Wir werden Nutzer:innen über wesentliche Änderungen mittels eines Hinweises in
 
 Bei allen datenschutzbezogenen Fragen, Anfragen oder Beschwerden:
 
-- **E-Mail:** privacy@safecircle.app
+- **E-Mail:** privacy@allywalk.app
 - **Postanschrift:** David Smilowski, Orionstraße 8, 16321 Bernau bei Berlin, Deutschland
 
 Wir sind ein kleines Team und antworten in der Regel innerhalb weniger Werktage.
